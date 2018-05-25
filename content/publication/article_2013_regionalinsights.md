@@ -33,7 +33,7 @@ selected = false
 
 url_pdf = "pdf/article_2013_regionalinsights_AcceptedManuscript.pdf"
 
-url_custom = [{name = "DOI", url = "https://doi.org/10.1080/20429843.2013.10708713"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1080/20429843.2013.10708713"}, {name = "BibTeX", url = "bib/article_2013_regionalinsights_bibtex.bib"}]
 
 math = true
 
