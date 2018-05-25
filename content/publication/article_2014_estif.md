@@ -31,7 +31,7 @@ selected = false
 #   Otherwise, set `projects = []`.
 # projects = ["example-external-project.md"]
 
-url_custom = [{name = "URL", url = "https://estif.lexxion.eu/article/ESTIF/2014/2/14"}]
+url_custom = [{name = "URL", url = "https://estif.lexxion.eu/article/ESTIF/2014/2/14"}, {name = "BibTeX", url = "bib/article_2014_estif_bibtex.bib"}]
 
 math = true
 
