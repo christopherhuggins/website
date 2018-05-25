@@ -1,6 +1,6 @@
 +++
 # Hero widget.
-widget = "hero"
+widget = "false"
 active = true
 date = 2017-10-15T00:00:00
 
