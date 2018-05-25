@@ -1,6 +1,6 @@
 +++
 title = "Subnational Government and Transnational Networking: The Rationalist Logic of Local Level Europeanization"
-date = 2018-04-01T00:00:00
+date = 2018-05-10T00:00:00
 
 authors = ["Huggins, C."]
 
