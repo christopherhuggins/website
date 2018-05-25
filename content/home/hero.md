@@ -1,7 +1,7 @@
 +++
 # Hero widget.
-widget = "false"
-active = true
+widget = "true"
+active = false
 date = 2017-10-15T00:00:00
 
 title = "Academic"
