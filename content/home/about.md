@@ -10,31 +10,20 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Local government EU engagement",
+    "Post-Brexit fisheries policy",
+    "Subnational politics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in European Politics"
+  institution = "University of Portsmouth"
+  year = 2015
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
-# Biography
+I'm a Research Fellow based at the [University of the West of Scotland](https://www.uws.ac.uk/) working on the '[UK fisheries policy post-Brexit: multi-level challenges and opportunities](http://ukandeu.ac.uk/brexitresearch/uk-fisheries-policy-post-brexit-multi-level-challenges-and-opportunities/)' project as part of the [UK in a Changing Europe](http://ukandeu.ac.uk/) initiative. I also research local government's relationship with the European Union and the impact of Brexit on local authorities.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am also Teaching Fellow in European Politics at [Keele University](https://www.keele.ac.uk/spire/staff/christopherhuggins/), and co-editor for the [Journal of Contemporary European Research](https://jcer.net/index.php/jcer).
