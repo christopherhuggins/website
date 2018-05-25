@@ -1,0 +1,48 @@
++++
+title = "Arranging and Conducting Elite Interviews: Practical Considerations"
+date = 2014-01-01T00:00:00
+
+authors = ["Huggins, C."]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["0"]
+
+publication = "*SAGE Research Methods Cases*"
+publication_short = ""
+
+abstract = "Elite interviewing is an established research method in the social sciences. It offers researchers a number of advantages, particularly when the motivations and perceptions of participants are the subject of inquiry. I used elite interviews in my research on local government transnational networking. While I was confident this approach was well suited to the aims of my study, I remained uncertain about the practicalities involved in arranging and conducting interviews, and I was afraid that such practical aspects would have a detrimental impact on the reliability of my results. This case outlines the practical issues I faced when arranging and conducting interviews. This highlights the importance of these practical considerations in the success of elite interviews, in addition to its methodological suitability to a study."
+abstract_short = ""
+
+image_preview = ""
+
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename of your project in `content/project/`.
+#   Otherwise, set `projects = []`.
+# projects = ["example-external-project.md"]
+
+# url_pdf = "pdf/article_2018_jcms_AcceptedManuscript.pdf"
+
+url_custom = [{name = "DOI", url = "http://dx.doi.org/10.4135/978144627305013514687"}]
+
+math = true
+
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
