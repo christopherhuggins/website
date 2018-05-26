@@ -33,12 +33,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Local government"
+  tag = ".local government"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Brexit"
+  tag = ".Brexit"
+
+[[filter]]
+  name = "Fisheries"
+  tag = ".Fisheries"
 
 +++
 
