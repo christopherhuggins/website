@@ -25,11 +25,7 @@ image_preview = ""
 
 selected = false
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename of your project in `content/project/`.
-#   Otherwise, set `projects = []`.
-# projects = ["example-external-project.md"]
+projects = ["project_tn.md"]
 
 # url_pdf = "pdf/article_2018_jcms_AcceptedManuscript.pdf"
 
