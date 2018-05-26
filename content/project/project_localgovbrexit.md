@@ -10,7 +10,7 @@ image_preview = "manchester.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Local government", "Brexit"]
+tags = ["localgov", "Brexit"]
 
 external_link = ""
 
