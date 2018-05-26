@@ -34,7 +34,7 @@ filter_default = 0
 
 [[filter]]
   name = "Local government"
-  tag = ".local government"
+  tag = ".localgov"
 
 [[filter]]
   name = "Brexit"
