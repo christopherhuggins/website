@@ -5,8 +5,8 @@ date = 2018-04-13T00:00:00
 lastmod = 2018-04-13T00:00:00
 draft = false
 
-tags = ["localgov"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
+tags = ["Local government", "Transnational networking"]
+summary = "A summary of my recently publshed article in European Urban and Regional Studies."
 
 # [header]
 # image = "headers/getting-started.png"
