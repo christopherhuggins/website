@@ -29,7 +29,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-# projects = ["example-external-project.md"]
+projects = ["project_tn.md"]
 
 url_pdf = "pdf/article_2013_regionalinsights_AcceptedManuscript.pdf"
 
