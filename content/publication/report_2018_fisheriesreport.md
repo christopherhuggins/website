@@ -33,7 +33,7 @@ selected = false
 
 url_pdf = "pdf/FisheriesReport_May2018.pdf"
 
-url_custom = [{name = "URL", url = "http://ukandeu.ac.uk/research-papers/governing-uk-fisheries-after-brexit-lessons-from-iceland-norway-and-the-faroe-islands/"}]
+url_custom = [{name = "URL", url = "http://ukandeu.ac.uk/research-papers/governing-uk-fisheries-after-brexit-lessons-from-iceland-norway-and-the-faroe-islands/"}, {name = "BibTeX", url = "bib/report_2018_fisheriesreport_bibtex.bib"}]
 
 math = true
 
