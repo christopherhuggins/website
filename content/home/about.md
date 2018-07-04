@@ -24,6 +24,6 @@ weight = 5
 
 +++
 
-I'm a Research Fellow based at the [University of the West of Scotland](https://www.uws.ac.uk/) working on the '[UK fisheries policy post-Brexit: multi-level challenges and opportunities](http://ukandeu.ac.uk/brexitresearch/uk-fisheries-policy-post-brexit-multi-level-challenges-and-opportunities/)' project as part of the [UK in a Changing Europe](http://ukandeu.ac.uk/) initiative. I also research local government's relationship with the European Union and the impact of Brexit on local authorities.
+I am Senior Lecturer in Politics at the [University of Suffolk](https://www.uos.ac.uk/) and Research Fellow at the [University of the West of Scotland](https://www.uws.ac.uk/). Working on the '[UK fisheries policy post-Brexit: multi-level challenges and opportunities](http://ukandeu.ac.uk/brexitresearch/uk-fisheries-policy-post-brexit-multi-level-challenges-and-opportunities/)' project as part of the [UK in a Changing Europe](http://ukandeu.ac.uk/) initiative. I also research local government's relationship with the European Union and the impact of Brexit on local authorities.
 
-I am also Teaching Fellow in European Politics at [Keele University](https://www.keele.ac.uk/spire/staff/christopherhuggins/), and co-editor for the [Journal of Contemporary European Research](https://jcer.net/index.php/jcer).
+I am also co-editor for the [Journal of Contemporary European Research](https://jcer.net/index.php/jcer).
