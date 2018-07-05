@@ -1,5 +1,5 @@
 +++
-title = "Governing UK fisheries after Brexit -- Lessons from Iceland, Norway and the Faroe Islands"
+title = "Governing UK fisheries after Brexit - Lessons from Iceland, Norway and the Faroe Islands"
 date = 2018-05-31T00:00:00
 
 authors = ["McAngus, C., Huggins, C., van der Zwet, A. and Connolly, J."]
@@ -18,7 +18,7 @@ publication_types = ["4"]
 publication = ""
 publication_short = ""
 
-abstract = "Elite interviewing is an established research method in the social sciences. It offers researchers a number of advantages, particularly when the motivations and perceptions of participants are the subject of inquiry. I used elite interviews in my research on local government transnational networking. While I was confident this approach was well suited to the aims of my study, I remained uncertain about the practicalities involved in arranging and conducting interviews, and I was afraid that such practical aspects would have a detrimental impact on the reliability of my results. This case outlines the practical issues I faced when arranging and conducting interviews. This highlights the importance of these practical considerations in the success of elite interviews, in addition to its methodological suitability to a study."
+abstract = ""
 abstract_short = ""
 
 image_preview = ""
