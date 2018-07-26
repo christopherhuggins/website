@@ -18,8 +18,8 @@ Part of our project on the impact of Brexit on UK fisheries policy explores how 
 
 To help illustrate this, I'm slowly putting together a series of infographics on the nature of the fishing industry in England, Northern Ireland, Scotland and Wales.
 
-#Differences in fishing fleet composition across the UK
+# Differences in fishing fleet composition across the UK
 
 ![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_fleetcomposition.png)
 
-A high-resolution PDF version can be downloaded [here](pdf/fisheriesdevo_infographic_fleetcomposition.pdf).
+A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_fleetcomposition.pdf).
