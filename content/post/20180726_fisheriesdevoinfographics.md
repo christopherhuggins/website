@@ -23,3 +23,7 @@ To help illustrate this, I'm slowly putting together a series of infographics on
 ![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_fleetcomposition.png)
 
 A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_fleetcomposition.pdf).
+
+## Data sources
+
+* UK fishing vessel lists, Marine Management Organisation, [https://www.gov.uk/government/collections/uk-vessel-lists](https://www.gov.uk/government/collections/uk-vessel-lists)
