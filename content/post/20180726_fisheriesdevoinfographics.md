@@ -22,6 +22,8 @@ To help illustrate this, I'm slowly putting together a series of infographics on
 ![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_fleetcomposition.png)
 A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_1_fleetcomposition.pdf).
 
+---
+
 ## 2: Weight and value of fish landings across the UK
 
 ![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_2_landings.png)
