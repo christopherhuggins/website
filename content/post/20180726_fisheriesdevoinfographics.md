@@ -14,14 +14,15 @@ Part of [our project](http://ukandeu.ac.uk/brexitresearch/uk-fisheries-policy-po
 
 To help illustrate this, I'm slowly putting together a series of infographics on the nature of the fishing industry in England, Northern Ireland, Scotland and Wales.
 
+1. [Differences in fishing fleet composition across the UK](#1-differences-in-fishing-fleet-composition-across-the-uk).
+2. [Weight and value of fish landings across the UK](#2-weight-and-value-of-fish-landings-across-the-uk).
+
 ## 1: Differences in fishing fleet composition across the UK
 
 ![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_fleetcomposition.png)
-
 A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_1_fleetcomposition.pdf).
 
 ## 2: Weight and value of fish landings across the UK
 
 ![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_2_landings.png)
-
 A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_2_landings.pdf).
