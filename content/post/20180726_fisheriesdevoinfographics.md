@@ -2,7 +2,7 @@
 title = "Infographics: Post-Brexit fisheries policy and devolution"
 
 date = 2018-07-26T00:00:00
-lastmod = 2018-08-02T00:00:00
+lastmod = 2018-08-08T00:00:00
 draft = false
 
 tags = ["Brexit", "Fisheries policy"]
@@ -16,6 +16,7 @@ To help illustrate this, I'm slowly putting together a series of infographics on
 
 1. [Differences in fishing fleet composition across the UK](#1-differences-in-fishing-fleet-composition-across-the-uk).
 2. [Weight and value of fish landings across the UK](#2-weight-and-value-of-fish-landings-across-the-uk).
+3. [Top 10 species landed into UK ports](#3-top-10-species-landed-into-uk-ports).
 
 ## 1: Differences in fishing fleet composition across the UK
 
@@ -28,3 +29,27 @@ A high-resolution PDF version can be downloaded [here](http://christopherhuggins
 
 ![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_2_landings.png)
 A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_2_landings.pdf).
+
+---
+
+## 3: Top 10 species landed into UK ports
+
+![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_3_topspecies.png)
+A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_3_topspecies.pdf).
+
+---
+
+## Q and A
+
+### Where does the data come from?
+The data on fishing vessels and landings comes from the [Marine Management Organisation](https://www.gov.uk/government/organisations/marine-management-organisation/about/statistics). They publish a range of great statistics on fisheries - their [annual sea fisheries statistics publication](https://www.gov.uk/government/collections/uk-sea-fisheries-annual-statistics) is well worth a read if you want to get an overview of fisheries.
+
+The NUTS2 boundaries used in the second infographic come from [Eurostat](http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts).
+
+### How did you make the infographics?
+I used R to analyse the data and make the graphs. If you're into that sort of thing, you can see my (rather cumbersome) code on [GitHub](https://github.com/christopherhuggins/fisheries_devo_infographics). I then played around with the layout in PowerPoint until it all looked OK.
+
+### Can I use the infographics in my own work?
+Yes. But please provide attribution.
+
+
