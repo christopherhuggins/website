@@ -17,6 +17,7 @@ To help illustrate this, I'm slowly putting together a series of infographics on
 1. [Differences in fishing fleet composition across the UK](#1-differences-in-fishing-fleet-composition-across-the-uk).
 2. [Weight and value of fish landings across the UK](#2-weight-and-value-of-fish-landings-across-the-uk).
 3. [Top 10 species landed into UK ports](#3-top-10-species-landed-into-uk-ports).
+4. [Internal boundaries of the UK's EEZ](#4-internal-boundaries-of-the-uks-eez).
 
 ---
 
