@@ -45,7 +45,7 @@ A high-resolution PDF version can be downloaded [here](http://christopherhuggins
 ## 4: Internal boundaries of the UK's EEZ
 
 ![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_4_eez.png)
-A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_4_eez.pdf).
+A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_4_eez.pdf)
 
 ---
 
