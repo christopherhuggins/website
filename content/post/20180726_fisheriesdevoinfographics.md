@@ -2,7 +2,7 @@
 title = "Infographics: Post-Brexit fisheries policy and devolution"
 
 date = 2018-07-26T00:00:00
-lastmod = 2018-08-23T00:11:00
+lastmod = 2018-08-23T00:00:00
 draft = false
 
 tags = ["Brexit", "Fisheries policy"]
@@ -39,6 +39,13 @@ A high-resolution PDF version can be downloaded [here](http://christopherhuggins
 
 ![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_3_topspecies.png)
 A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_3_topspecies.pdf).
+
+---
+
+## 4: Internal boundaries of the UK's EEZ
+
+![](https://github.com/christopherhuggins/website/raw/master/static/img/posts/20180726/fisheriesdevo_infographic_4_eez.png)
+A high-resolution PDF version can be downloaded [here](http://christopherhuggins.uk/pdf/fisheriesdevo_infographic_4_eez.pdf).
 
 ---
 
