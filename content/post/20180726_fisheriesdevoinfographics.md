@@ -2,7 +2,7 @@
 title = "Infographics: Post-Brexit fisheries policy and devolution"
 
 date = 2018-07-26T00:00:00
-lastmod = 2018-08-23T00:00:00
+lastmod = 2018-08-23T00:11:00
 draft = false
 
 tags = ["Brexit", "Fisheries policy"]
