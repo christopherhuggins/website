@@ -14,7 +14,7 @@ summary = "An exercise to get new politics students thinking about how they'll b
 
 +++
 
-A couple of weeks ago we had our induction week for students on the (new politics degree)[https://www.uos.ac.uk/courses/ug/ba-hons-politics] at Suffolk. 
+A couple of weeks ago we had our induction week for students on the [new politics degree](https://www.uos.ac.uk/courses/ug/ba-hons-politics) at Suffolk.
 
 Induction weeks, which most UK universities organise, are usually there to help ease the students' transition to university and to brief them on all the things they need to know before teaching formally starts. This is usually filled with a series of sessions on things such as how to access library resources and who the key tutors and points of contact are.
 
@@ -30,4 +30,4 @@ Getting the students to work in pairs helps to develop their team working skills
 
 In this way the main focus of the session was to get students used to how we will be expecting them to approach their learning during their degree. Teaching the students about the results of the 2017 general election or how the UK's electoral system works isn't really the main objective here. Rather it's all about developing the skills of interpretation, evaluation and critical analysis.
 
-The handout can be accessed (here)[http://christopherhuggins.uk/pdf/induction_PoliticsTaster_1819.pdf] and I'm happy for people to make use of it in their teaching if they find it useful. For those that are into that sort of thing, all the background data and materials can be found on (GitHub)[https://github.com/christopherhuggins/politicsinduction2018].
+The handout can be accessed [here](http://christopherhuggins.uk/pdf/induction_PoliticsTaster_1819.pdf]) and I'm happy for people to make use of it in their teaching if they find it useful. For those that are into that sort of thing, all the background data and materials can be found on [GitHub](https://github.com/christopherhuggins/politicsinduction2018).
