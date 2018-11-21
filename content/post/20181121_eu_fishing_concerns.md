@@ -24,7 +24,7 @@ Firstly, there's the mechanics of voting within the European Council. Article 50
 
 [You can play around with the voting calculator yourself and check out various scenarios for yourself](https://www.consilium.europa.eu/en/council-eu/voting-system/voting-calculator/)
 
-Outside of a formal vote, then, the question will be whether the five countries' concerns over fishing are significant enough to persuade the other EU member states that the deal isn't worth it? And is fishing actually a big enough issue for these five member states themselves to derail the agreement? This brings us to the question of economic reality.
+Outside of a formal vote, then, the question will be whether the five countries' concerns over fishing are significant enough to persuade the other EU member states that the deal isn't worth it, especially given how difficult it has been to reach this point in the negotiations? And is fishing actually a big enough issue for these five member states themselves to derail the agreement? This brings us to the question of economic reality.
 
 
 ## Economic reality
