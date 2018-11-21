@@ -20,7 +20,7 @@ Ultimately we won't know until the negotiations conclude. But there are two thin
 
 ## Qualified majority voting and consensus decision-making
 
-Firstly, there's the mechanics of voting within the European Council. Article 50 outlines the withdrawal agreement will need to secure approval of 72% of EU member states, representing at least 65% of the EU's population (the UK is obviously excluded here). Putting to one side for a moment that the European Council tends to make its decisions based on consensus rather than formal voting, if it were to come to a formal vote, these five countries aren't enough.
+Firstly, there's the mechanics of voting within the European Council. Article 50 outlines the withdrawal agreement will need to secure approval of 72% of EU member states, representing at least 65% of the EU's population (the UK is obviously excluded here). Putting to one side for a moment that the European Council tends to make its decisions based on consensus rather than formal voting, if it were to come to a formal vote, these five countries aren't enough to prevent approval.
 
 [You can play around with the voting calculator yourself and check out various scenarios for yourself](https://www.consilium.europa.eu/en/council-eu/voting-system/voting-calculator/)
 
