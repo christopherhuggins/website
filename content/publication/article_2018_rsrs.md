@@ -29,7 +29,7 @@ projects = ["project_localgovbrexit.md"]
 
 url_pdf = "pdf/article_2018_rsrs_Final.pdf"
 
-url_custom = [{name = "DOI", url = "https://doi.org/10.1080/21681376.2018.1544852"}, {name = "Open Access Repository", url = "http://oars.uos.ac.uk/762/"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1080/21681376.2018.1544852"}, {name = "Open Access Repository", url = "http://oars.uos.ac.uk/762/"}, {name = "BibTeX", url = "bib/article_2018_rsrs_bibtex.bib"}]
 
 math = true
 
