@@ -3,7 +3,7 @@ title = "The UK's biggest fishing vessels"
 
 date = 2019-04-24T00:00:00
 lastmod = 2019-04-24T00:00:00
-draft = true
+draft = false
 
 tags = ["Brexit", "Fisheries policy"]
 summary = "Is Kirkella really the 'UK's biggest fishing trawler' and does vessel size matter in the Brexit and fishing debate?"
