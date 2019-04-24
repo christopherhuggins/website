@@ -10,7 +10,7 @@ summary = "Is Kirkella really the 'UK's biggest fishing trawler' and does vessel
 
 +++
 
-Today, the latest addition to the UK's fishing fleet was officially named at a ceremony in Greenwich. Kirkella (H7) is 81 metres long,  which makes for [a pretty impressive sight going through London's Tower Bridge](https://twitter.com/UKFisheriesLtd/status/1120748460435755008), and with an onboard fish processing factory it makes for an impressive operation (do check out the [video tours on the UK Fisheries website](https://ukfisheries.net/kirkella-trawler)).
+Today, the latest addition to the UK's fishing fleet was officially named at a ceremony in Greenwich. Kirkella (H7) is 81 metres long,  which makes for [a pretty impressive sight going through London's Tower Bridge](https://twitter.com/UKFisheriesLtd/status/1120748460435755008), and with an onboard fish processing factory it makes for an impressive operation (do check out the [video tours on the UK Fisheries website](https://ukfisheries.net/kirkella-trawler) and the [photos from the Hull Live website](https://www.hulldailymail.co.uk/news/business/gallery/board-kirkella-trawler-landing-fish-2076903)). For an industry that has taken centre stage during the Brexit debate, the commissioning and naming of a new fishing vessel sends important signals about how parts of the fishing industry perceive the opportunities of leaving the European Union.
 
 But the claim made by much of the media covering the naming event, [that the vessel is the 'UK's largest fishing trawler'](https://www.theguardian.com/business/2019/apr/23/uks-biggest-fishing-trawler-sails-up-thames-in-brexit-warning), didn't quite seem to add up to me, so I looked at the data.
 
