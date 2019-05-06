@@ -23,7 +23,7 @@ The first is that not all local elections take place at the same time. This is p
 
 ![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_electoral_pattern.png)
 
-These patterns aren't necessarily set in stone either. My local council, [Norwich City](https://www.norwich.gov.uk/site/), normally elects its members in thirds. But a recent review saw all but one of the ward boundaries change, meaning the whole council was up for election this year.
+These patterns aren't necessarily set in stone either. For example, my local council, [Norwich City](https://www.norwich.gov.uk/site/), normally elects its members in thirds. But a recent review saw all but one of the ward boundaries change, meaning the whole council was up for election this year.
 
 This means no two local elections are alike, and, crucially, never cover the whole of England. We can't compare this year's local elections with those that took place last year. For example, none of the London boroughs were up for election this year (which caused [some embarrassment for Boris Johnson when he was caught out lying about his own electoral behaviour](https://www.standard.co.uk/news/politics/boris-johnson-local-elections-london-twitter-a4133271.html)).
 
