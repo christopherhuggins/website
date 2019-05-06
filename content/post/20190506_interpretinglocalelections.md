@@ -45,11 +45,11 @@ This year in Suffolk, for example Suffolk Coastal and Waveney District Councils 
 
 Even within authorities which are not subject to reorganisation, financial pressures are often used as justification for reducing membership. In 2018, for example, [Newcastle-under-Lyme Borough Council](https://www.newcastle-staffs.gov.uk/) cut the number of councillors it had by over a quarter, from 60 to 44.
 
-Indeed, across England is that the number of councillors is falling. In 2012 there were 18,193 councillors, but this had fallen to 17,513 in 2019. 
+Indeed, across England is that the number of councillors is falling. In 2012 there were 18,193 councillors, but this had fallen to 17,513 in 2019, and is likely to be lower still given recent reorganisations.
 
 ![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_total_cllrs.png)
 
-This is having an impact on local representation as the average number of voters represented by each councillor is increasing. Among district and unitary councils, councillors now represent on average 2,516 voters, compared to 2,321 voters in 2012.
+This is having an impact on local representation as the average number of voters represented by each councillor is increasing. Among lower-tier and unitary councils, councillors now represent on average 2,516 voters, compared to 2,321 voters in 2012.
 
 ![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_cllr_ratio.png)
 
