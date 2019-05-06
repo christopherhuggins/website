@@ -13,7 +13,7 @@ summary = "The quirks of local elections and an ever decreasing number of counci
 
 On Thursday 2 May 2019 elections were held in England and over 8,300 seats up for grabs. These were local elections, but with Brexit in the background and the parliamentary arithmetic in continuing to work against the government, it was always inevitable that they would be viewed in the light of national politics, rather than a local contest. The coverage of Thursday's election results which almost exclusively sought to analyse and interpret the results with reference to Brexit confirmed this.
 
-This is nothing new. Local elections have often been seen as 'second order' contests where voters use an 'inconsequential' local ballot to send a message to national politicians, and national factors undoubtedly play some role in the way people vote in local elections.
+This is nothing new. Local elections have often perceived to be little more than 'second order' contests where voters use an 'inconsequential' local ballot to send a message to national politicians, and national factors undoubtedly play some role in the way people vote in local elections.
 
 But drawing national conclusions from local election results is fraught with difficulty and can see the result misrepresented, particuarly by the parties involved who will be keen to put a positive gloss on on how they've done. One particular frustration of mine is the way politicians and pundits use the number of council seats won or lost compared to previous years as a metric for assessing parties' performance at a national level. There are several problems with this, and a number of dynamics at play in local elections make attempts to compare results on this basis with previous years fundamentally flawed.
 
