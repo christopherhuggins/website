@@ -62,7 +62,7 @@ All of this means looking at the raw number of seats won and lost as a proxy to 
 For example, an eyeball of the seats won or lost by each of the main parties last week might lead us to suggest the Conservatives had a much worse night than Labour. In fact both [the BBC's](https://www.bbc.co.uk/news/uk-politics-48091592) and [Rallings and Thrasher's](https://www.thetimes.co.uk/article/the-big-two-thought-local-elections-were-bad-just-wait-until-nigel-joins-the-party-w7whlzz3t) estimates had both parties tied when extrapolated to the national level.
 
 ![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_seats_won.png)
-![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_nev_2019.png)
+![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_nevote_2019.png)
 
 Because of this, these measures provide a much better way to assess the state of national political parties' performance in local elections over time.
 
