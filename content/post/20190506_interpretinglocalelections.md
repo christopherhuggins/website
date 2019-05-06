@@ -1,8 +1,11 @@
 +++ title = "Interpreting local election results"
 
-date = 2019-05-06T00:00:00 lastmod = 2019-05-06T00:00:00 draft = false
+date = 2019-05-06T00:00:00
+lastmod = 2019-05-06T00:00:00
+draft = false
 
-tags = ["Local government"] summary = "The quirks of local elections and an ever decreasing number of councillors means we should avoid assessing parties' performance on the basis of seats won or lost"
+tags = ["Local government"]
+summary = "The quirks of local elections and an ever decreasing number of councillors means we should avoid assessing parties' performance on the basis of seats won or lost"
 
 +++
 
