@@ -2,8 +2,8 @@
 
 title = "Interpreting local election results"
 
-date = 2019-05-06T00:00:00
-lastmod = 2019-05-06T00:00:00
+date = 2019-05-05T00:00:00
+lastmod = 2019-05-05T00:00:00
 draft = false
 
 tags = ["Local government"]
@@ -70,4 +70,4 @@ Because of this, these measures provide a much better way to assess the state of
 
 Eyeballing who's won or lost seats in local elections is therefore a poor measure, and models which try to extrapolate a national vote share are perhaps a better way at trying to build a national picture. But we should also bear in mind that despite the desire to come to national conclusions, local issues do matter in local elections. Indeed, [ward-level analysis suggested the Brexit link to the results may have been overplayed in much of the coverage](https://twitter.com/drjennings/status/1124950936961601537) and that there are broader shifts in voter behaviour often determined by 'place' going on. And while the coverage of the results was dominated by Brexit, relatively little has been said about the ever continuing degradation of local public services administered by councils (formerly) run by the two main parties.
 
-Overall then, we need to interpret local election results with a little more caution and nuance.
+Overall then, we need to interpret local election results with a little more caution and nuance. Moving away from who won or lost how much would allow us to get a better idea of what's going on, as well as encourage us to drill down further beyond basic national trends.
