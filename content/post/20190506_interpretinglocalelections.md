@@ -2,8 +2,8 @@
 
 title = "Interpreting local election results"
 
-date = 2019-05-05T00:00:00
-lastmod = 2019-05-05T00:00:00
+date = 2019-05-06T00:00:00
+lastmod = 2019-05-06T00:00:00
 draft = false
 
 tags = ["Local government"]
