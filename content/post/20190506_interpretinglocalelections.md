@@ -16,7 +16,7 @@ But drawing national conclusions from local election results is fraught with dif
 
 The first is that not all local elections take place at the same time. This is partly down to the 'model' used by local authorities to elect their members. Most councils elect their all of their members in one go, while (coincidentally) around a third of councils opt for the 'thirds' model. A small number of authorities elect their members in halves.
 
-![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_cllr_ratio.png)
+![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_electoral_pattern.png)
 
 These patterns aren't necessarily set in stone either. My local council, [Norwich City](https://www.norwich.gov.uk/site/), normally elects its members in thirds. But a recent review saw all but one of the ward boundaries change, meaning the whole council was up for election this year.
 
