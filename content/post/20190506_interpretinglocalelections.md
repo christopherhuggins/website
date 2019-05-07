@@ -49,7 +49,7 @@ Indeed, across England the number of councillors is falling. In 2012 there were 
 
 ![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_total_cllrs.png)
 
-This is having an impact on local representation as the average number of voters represented by each councillor is increasing. Among lower-tier and unitary councils, councillors now represent on average 2,516 voters, compared to 2,321 voters in 2012.
+This is having an impact on local representation as the average number of voters represented by each councillor is increasing. Among lower-tier and unitary councils, councillors now represent on average 2,516 voters, compared to 2,321 voters in 2011.
 
 ![](https://raw.githubusercontent.com/christopherhuggins/website/master/static/img/posts/20190506/plot_cllr_ratio.png)
 
