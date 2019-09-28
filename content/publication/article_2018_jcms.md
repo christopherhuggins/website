@@ -1,6 +1,6 @@
 +++
 title = "Subnational Government and Transnational Networking: The Rationalist Logic of Local Level Europeanization"
-date = 2018-05-10T00:00:00
+date = 2018-09-10T00:00:00
 
 authors = ["Huggins, C."]
 
@@ -15,7 +15,7 @@ authors = ["Huggins, C."]
 # 6 = Book chapter
 publication_types = ["2"]
 
-publication = "*JCMS: Journal of Common Market Studies*"
+publication = "*JCMS: Journal of Common Market Studies*, 56(6), 1263-1282"
 publication_short = ""
 
 abstract = "The involvement of subnational actors in EU politics has become an increasingly recognized facet of European integration. However, this highlights an interesting puzzle: subnational authorities in unitary and centralized polities usually lack the formal competence and have limited resources to engage beyond their territorial limits. Why, then, do they engage at the European level? This article addresses this question by exploring their motivations for participation in European transnational networking. These motivations are assessed against a Europeanization framework, exploring whether subnational authorities adopt the 'logic of consequentialism' or the 'logic of appropriateness' when engaging in transnational networking. The article argues that subnational authorities are rational actors, maximizing the opportunities presented by the EU without subscribing to its normative aims. In a context marked by financial pressures and Brexit, these findings provide a useful foundation for analyzing the on‐going EU--local relationship, and for explaining changes to subnational authorities' approaches to European engagement."
