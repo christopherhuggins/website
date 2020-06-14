@@ -29,7 +29,7 @@ projects = ["project_fisheriesbrexit.md"]
 
 # url_pdf = "pdf/article_2018_jcms_AcceptedManuscript.pdf"
 
-url_custom = [{name = "DOI", url = "https://doi.org/10.1080/21582041.2018.1516296"}, {name = "Open Access Repository", url = "http://oars.uos.ac.uk/706/"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1080/21582041.2018.1516296"}, {name = "Open Access Repository", url = "http://oars.uos.ac.uk/706/"}, {name = "BibTeX", url = "bib/article_2019_css_bibtex.bib"}]
 
 math = true
 

@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Christopher Huggins"
-  role = "Senior Lecturer in Politics"
+  role = "Associate Dean for Learning, Teaching and Student Experience | Senior Lecturer in Politics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -242,6 +242,11 @@ enableGitInfo = false
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0002-0108-7887"
+
+ [[params.social]]
+    icon = "publons"
+    icon_pack = "ai"
+    link = "https://publons.com/researcher/1372697/christopher-huggins/"
 
 
 # Navigation Links
