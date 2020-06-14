@@ -1,5 +1,5 @@
 +++
-title = "{Brexit} and the uncertain future of fisheries policy in the {United Kingdom}: political and governance challenges"
+title = "Brexit and the uncertain future of fisheries policy in the United Kingdom: political and governance challenges"
 date = 2020-06-04T00:00:00
 
 authors = ["Huggins, C., Connolly, J., McAngus, C., & van der Zwet, A."]
