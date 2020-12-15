@@ -25,7 +25,7 @@ image_preview = ""
 
 selected = false
 
-projects = ["pproject_fisheriesbrexit.md"]
+projects = ["project_fisheriesbrexit.md"]
 
 url_pdf = "pdf/article_2020_ppa_Final.pdf.pdf"
 
