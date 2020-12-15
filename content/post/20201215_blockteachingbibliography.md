@@ -27,6 +27,8 @@ Lutes, L., & Davies, R. (2013). Comparing the Rigor of Compressed Format Courses
 
 Male, S. (2018). *Student experiences of threshold capability development with intensive mode teaching*. <https://ltr.edu.au/resources/SP14-4624_Male_Report_2018.pdf>
 
+Nerantzi, C., & Chatzidamianos, G. (2020). Moving to Block Teaching during the COVID-19 Pandemic, *International Journal of Management and Applied Research*, 7(4), 482-495. <https://doi.org/10.18646/2056.74.20-034>
+
 Sidiroglou, F., & Fernandes, N. (2019). The impact of blended learning on student performance in an intensive block mode teaching setting. *The International Conference on Information Communication Technologies in Education 2019*, 101-111. <http://www.icicte.org/assets/icicte2019_3.2_sidiroglou_fernandes.pdf>
 
 Sewagegn, A. A., & Diale, B. M. (2019). Modular/Block teaching: practices and challenges at higher education institutions of Ethiopia, *Teaching in Higher Education*. <https://doi.org/0.1080/13562517.2019.1681391>
