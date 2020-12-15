@@ -11,6 +11,8 @@ summary = "A live bibliography of research into block teaching in higher educati
 
 +++
 
+This is a bibliography of research into block / intensive mode teaching in higher education. I will try to keep the bibliography updated as and when I come across new research. [A BibTeX file of this bibliography can be downloaded here](https://christopherhuggins.uk/bib/blockbibliography.bib).
+
 Dixon, L., & O’Gorman, V. (2020). ‘Block teaching’ – exploring lecturers’ perceptions of intensive modes of delivery in the context of undergraduate education, *Journal of Further and Higher Education*, 44(5), 583-595. <https://doi.org/10.1080/0309877X.2018.1564024>
 
 Harvey, M., Power, M., & Wilson, M. (2017). A review of intensive mode of delivery and science subjects in Australian universities, *Journal of Biological Education*, 51(3), 315-325. <https://doi.org/10.1080/00219266.2016.1217912>
@@ -29,4 +31,3 @@ Sidiroglou, F., & Fernandes, N. (2019). The impact of blended learning on studen
 
 Sewagegn, A. A., & Diale, B. M. (2019). Modular/Block teaching: practices and challenges at higher education institutions of Ethiopia, *Teaching in Higher Education*. <https://doi.org/0.1080/13562517.2019.1681391>
 
-You can download a BibTeX file of this bibliography here.
