@@ -33,7 +33,7 @@ projects = ["project_tn.md"]
 
 # url_pdf = "pdf/chapter_2018_wassenberg_AcceptedManuscript.pdf"
 
-url_custom = [{name = "DOI", url = "https://doi.org/10.3726/b15774"}, {name = "Website", url = "https://www.peterlang.com/view/title/65124"}, {name = "Open Access Repository", url = "http://oars.uos.ac.uk/1011/"}, {name = "BibTeX", url = "bib/chapter_2020_crossborderdictionary.bib"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.3726/b15774"}, {name = "Website", url = "https://www.peterlang.com/view/title/65124"}, {name = "Open Access Repository", url = "http://oars.uos.ac.uk/1011/"}, {name = "BibTeX", url = "bib/chapter_2020_crossborderdictionary_bibtex.bib"}]
 
 math = true
 
