@@ -13,6 +13,12 @@ summary = "A live bibliography of research into block teaching in higher educati
 
 This is a bibliography of research into block / intensive mode teaching in higher education. I will try to keep the bibliography updated as and when I come across new research. [A BibTeX file of this bibliography can be downloaded here](https://christopherhuggins.uk/bib/blockbibliography.bib).
 
+Adria, M., & Rose, T. (2004). Technology, Perprocessing, and Resistance: A Comparative Case Study of Intensive Classroom Teaching. *Journal of Education for Business*, 80(1), 53-60. <https://doi.org/10.3200/JOEB.80.1.53-60>
+
+Burton, S., & Nesbit, P. L. (2008). Block or traditional? An analysis of student choice of teaching format. *Journal of Management & Organization*, 14(1), 4-19. <https://doi.org/10.5172/jmo.2008.14.4.4>
+
+Davies, W. M. (2006). Intensive teaching formats: A review. *Issues in Educational Research*, 16(1), 1-21.
+
 Dixon, L., & O’Gorman, V. (2020). ‘Block teaching’ – exploring lecturers’ perceptions of intensive modes of delivery in the context of undergraduate education, *Journal of Further and Higher Education*, 44(5), 583-595. <https://doi.org/10.1080/0309877X.2018.1564024>
 
 Harvey, M., Power, M., & Wilson, M. (2017). A review of intensive mode of delivery and science subjects in Australian universities, *Journal of Biological Education*, 51(3), 315-325. <https://doi.org/10.1080/00219266.2016.1217912>
