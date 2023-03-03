@@ -10,7 +10,7 @@ title = "Christopher Huggins"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2020"
+copyright = "&copy; 2023"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -102,7 +102,7 @@ enableGitInfo = false
   longitude = "-122.1697"
   zoom = 15
 
-  # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
+  # Date and time format
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
@@ -189,7 +189,7 @@ enableGitInfo = false
 
   # Configuration of publication pages.
   [params.publications]
-    # Date format (refer to Go's date format: http://fuckinggodateformat.com )
+    # Date format
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
     date_format = "January, 2006"
 

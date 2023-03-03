@@ -26,4 +26,4 @@ weight = 5
 
 I am Associate Professor in Politics and Associate Dean for Learning, Teaching and Student Experience at the [University of Suffolk](https://www.uos.ac.uk/).
 
-I am also co-editor for the [Journal of Contemporary European Research](https://jcer.net/index.php/jcer).
+I am also co-editor for [Contemporary European Politics](https://onlinelibrary.wiley.com/journal/28330188).
