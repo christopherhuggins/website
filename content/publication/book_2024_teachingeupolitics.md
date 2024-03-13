@@ -1,5 +1,5 @@
 +++
-title = "*Teaching European Union Politics*"
+title = "Teaching European Union Politics"
 date = 2024-01-01T00:00:00
 
 authors = ["Gravey, V., & Huggins, C. (Eds.)"]
