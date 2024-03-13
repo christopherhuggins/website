@@ -26,7 +26,7 @@ image_preview = ""
 
 selected = false
 
-projects = ["project_pedagogypolitics.md"]
+projects = ["project_politicspedagogy.md"]
 
 # url_pdf = "pdf/article_2023_bjpir_final.pdf"
 
