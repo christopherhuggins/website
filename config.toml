@@ -55,11 +55,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Christopher Huggins"
-  role = "Associate Dean for Learning, Teaching and Student Experience | Associate Professor in Politics"
+  role = "Director of Academic Programmes | Associate Teaching Professor in Politics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Suffolk", url = "https://www.uos.ac.uk/" } ]
+  organizations = [ { name = "University of Cambridge, Institute of Continuing Education", url = "https://www.ice.cam.ac.uk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -226,10 +226,10 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:C.Huggins2@uos.ac.uk"
+    link = "mailto:ch2042@cam.ac.uk"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "x-twitter"
     icon_pack = "fa"
     link = "https://twitter.com/chris_huggins"
 
@@ -244,9 +244,9 @@ enableGitInfo = false
     link = "https://orcid.org/0000-0002-0108-7887"
 
  [[params.social]]
-    icon = "publons"
-    icon_pack = "ai"
-    link = "https://publons.com/researcher/1372697/christopher-huggins/"
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/christopher-huggins-10465b22"
 
 
 # Navigation Links
@@ -263,13 +263,13 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Posts"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]
