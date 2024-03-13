@@ -1,6 +1,6 @@
 +++
 title = "Teaching European Union Politics"
-date = 2023-01-01T00:00:00
+date = 2024-01-01T00:00:00
 
 authors = ["Gravey, V., & Huggins, C. (Eds.)"]
 
@@ -28,9 +28,9 @@ selected = false
 
 projects = ["project_pedagogypolitics.md"]
 
-url_pdf = "pdf/article_2023_bjpir_final.pdf"
+# url_pdf = "pdf/article_2023_bjpir_final.pdf"
 
-url_custom = [{name = "DOI", url = "https://doi.org/10.1177/13691481211067146"}, {name = "Open Access Repository", url = "https://oars.uos.ac.uk/2051/"}, {name = "BibTeX", url = "bib/article_2023_bjpir_bibtex.bib"}]
+url_custom = [{name = "Website", url = "https://www.e-elgar.com/shop/gbp/teaching-european-union-politics-9781839103704.html"}, {name = "BibTeX", url = "bib/article_2023_bjpir_bibtex.bib"}]
 
 math = true
 
