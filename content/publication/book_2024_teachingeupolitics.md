@@ -15,7 +15,7 @@ authors = ["Gravey, V., & Huggins, C. (Eds.)"]
 # 6 = Book chapter
 publication_types = ["5"]
 
-publication = "Teaching European Union Politics"
+publication = "*Teaching European Union Politics*. Edward Elgar"
 publication_short = ""
 
 abstract = "Why do we teach EU politics? What should EU politics students learn? What are the practical approaches and techniques to teaching EU politics? In response to these questions, Teaching European Union Politics analyses the interdisciplinary nature of teaching this broad subject and reflects on a wide range of educational approaches. It both advances the pedagogy and practice of teaching EU politics, and provides practical support for those looking to adopt innovative and learner-oriented techniques."
