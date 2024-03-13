@@ -30,7 +30,7 @@ projects = ["project_politicspedagogy.md"]
 
 # url_pdf = "pdf/article_2023_bjpir_final.pdf"
 
-url_custom = [{name = "Website", url = "https://www.e-elgar.com/shop/gbp/teaching-european-union-politics-9781839103704.html"}, {name = "BibTeX", url = "bib/article_2023_bjpir_bibtex.bib"}]
+url_custom = [{name = "Website", url = "https://www.e-elgar.com/shop/gbp/teaching-european-union-politics-9781839103704.html"}, {name = "BibTeX", url = "bib/book_2024_teachingeupolitics_bibtex.bib"}]
 
 math = true
 
